@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn Arabic", "Learn Arabic\Learn Arabic.csproj", "{C78C8B9E-9F66-42B7-9313-96A4D180536C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78C8B9E-9F66-42B7-9313-96A4D180536C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78C8B9E-9F66-42B7-9313-96A4D180536C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78C8B9E-9F66-42B7-9313-96A4D180536C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78C8B9E-9F66-42B7-9313-96A4D180536C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE8221C3-CBE8-4779-8B5E-585EA84B181E}
+	EndGlobalSection
+EndGlobal

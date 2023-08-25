@@ -1,0 +1,17 @@
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\bin\Debug\net6.0-windows\Learn Arabic.exe
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\bin\Debug\net6.0-windows\Learn Arabic.deps.json
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\bin\Debug\net6.0-windows\Learn Arabic.runtimeconfig.json
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\bin\Debug\net6.0-windows\Learn Arabic.dll
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\bin\Debug\net6.0-windows\Learn Arabic.pdb
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.csproj.AssemblyReference.cache
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.csproj.GenerateResource.cache
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.AssemblyInfoInputs.cache
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.AssemblyInfo.cs
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.csproj.CoreCompileInputs.cache
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.dll
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\refint\Learn Arabic.dll
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.pdb
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn Arabic.genruntimeconfig.cache
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\ref\Learn Arabic.dll
+C:\Users\falba\source\repos\Learn Arabic\Learn Arabic\obj\Debug\net6.0-windows\Learn_Arabic.LearnArabic.resources
